@@ -1,0 +1,24 @@
+{
+  "name": "searchbar",
+  "version": "1.0.0",
+  "description": "Searchbar React Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurtu/Searchbar.git"
+  },
+  "keywords": [
+    "searchbar",
+    "component",
+    "react"
+  ],
+  "author": "Timur Uzel <timurt.uzel@gmail.com> (https://github.com/timurtu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timurtu/Searchbar/issues"
+  },
+  "homepage": "https://github.com/timurtu/Searchbar#readme"
+}
